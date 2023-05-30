@@ -16,6 +16,7 @@ Since news headlines are written by professionals in a formal manner, there are 
 Unlike tweets that reply to other tweets, the news headlines obtained are self-contained. This would help us in teasing apart the real sarcastic elements.
 
 Reference: https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
+* The dataset used in this project has been attached as a json file.
 
 ## Attributes : 
 Each record consists of three attributes:
